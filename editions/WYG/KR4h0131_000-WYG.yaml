@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0131/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0131_WYG_000-1a, image: WYG1400/WYG1400-0409a.png}
+body:
+  text: 釋文紀總集類提要臣等謹案釋文紀四十五巻明梅鼎祚編鼎祚字禹金宣城人是書成於崇禎辛未裒輯歴代名僧之文以及諸家之文為釋氏而作者冠以經典所釋西域梵書一巻溯其源也二巻以迄四十三巻為東漢至陳隋之作四十四巻四十五巻則無名氏時代者然皆唐以前人所著也採摭極為繁富毎人名之下各著爵里毎篇題之下各著事寔亦頗便檢閲其中如王􅋄頭陀寺碑載在文選顔之推歸心篇載在家訓人人習讀而蒐遠畧近失之眉㫸之前又如智永題右軍樂毅論後與月儀獻歲帖其人雖釋氏之徒而其文寔不為釋氏作一概收之亦稱泛濫皆不免於小疵然六代以前之義學則已班班然矣又其時文士競以藻麗相高即緇流亦具有詞采故大抵吐屬嫺雅論説亦皆根据經典尤不類唐以後諸方語録徒以俚語掉弄機鋒即論其文章亦不失為斐然可觀也乾隆四十四年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:b0c134ebf7b4929914a7ae1c6aa4f4e18f87fdfe59e1bd89f5ff36050c0d9e84
+metadata:
+  title: 釋文紀
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:39:08.145341'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0131/KR4h0131_000.txt
+hash: sha256:51bf08571daeac3b726120d60e7878887fd32c2e2df3f1e4954a43e1684402a8
